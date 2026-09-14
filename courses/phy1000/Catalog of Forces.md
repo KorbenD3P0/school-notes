@@ -9,4 +9,4 @@ CREATING A FORCE DIAGRAM:
 3. DRAW ALL THE FORCES ON THE OBJECT AS ARROWS
 4. LABEL EACH FORCE WITH AN APPROPRIATE NAME
 5. CHECK: FOR EACH FORCE YOU KNOW: OBJECT EXERTING IT, OBJECT IT ACTS ON, CONTACT/NO CONTACT?
-![[PXL_20260910_234523415.jpg]]
+![Free-body diagram: a cup on a table, showing the normal force (table as agent) and gravitational force (Earth's mass as agent)](images/force-diagram-example.jpg)
